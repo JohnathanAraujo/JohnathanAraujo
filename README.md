@@ -5,14 +5,14 @@ Sou bacharel em Ciência da Computação, profissional com experiência em desen
 
 Atualmente trabalho com:
 
-## - Power Platform
-## - Automações
-## - Python
-## - JavaScript
-## - Angular
-## - SQL
-## - GitHub e versionamento de código
-## - Integração com IA
+# - Power Platform
+# - Automações
+# - Python
+# - JavaScript
+# - Angular
+# - SQL
+# - GitHub e versionamento de código
+# - Integração com IA
 
 ### Aberto a novas oportunidades e projetos!
 
