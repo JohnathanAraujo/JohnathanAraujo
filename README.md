@@ -41,7 +41,7 @@ Atualmente trabalho com:
 
 ### 📢 Entre em contato comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/johnathanaraujo](https://www.linkedin.com/in/johnathan-araujo/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnathan-araujo)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnathan.araujo.n@gmail.com)
 
 ---
